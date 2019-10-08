@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to bottom, rgb(204, 119, 137) 40%, rgba(0,0,0,0) 90%);
+  background: linear-gradient(to bottom, cornflowerblue 40%, rgba(0,0,0,0) 90%);
   background-repeat: no-repeat;
   background-color: bisque;
 }
