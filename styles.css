@@ -91,6 +91,29 @@ body {
    background: linear-gradient(to right, burlywood, white)
 }
 
+
+.project-image {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+.project-image:hover {
+  opacity: 0.4;
+  transition: 0.2s;
+}
+
+.project-title {
+  position: absolute;
+  height: 0%;
+  color: rgb(0,0,0,0)
+}
+
+.project-title:hover {
+  position: absolute;
+  color: white;
+}
+
+
 #project1 {
   grid-column: 1;
   grid-row: 3;
