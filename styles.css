@@ -57,7 +57,7 @@ body {
 #projects-header {
    height: 70px;
    color: burlywood;
-   font-size: 22px;
+   font-size: 21px;
    text-transform: lowercase;
    margin-top: 20px;
    grid-column: 1/4;
