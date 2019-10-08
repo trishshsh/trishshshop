@@ -1,1 +1,1 @@
-# trishshshop.github.io
+# trishshsh.github.io/trishshshop
